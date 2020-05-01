@@ -10,16 +10,20 @@ What is Eviction?
 Definition 1:
  The act of forcing someone to leave somewhere, especially their home.
  
-Situations like:\n
-•	After falling behind with his mortgage payment, he now faces eviction from his home.\n
-•	In this economically depressed area, evictions are common.
+Situations like:
+
+   •	After falling behind with his mortgage payment, he now faces eviction from his home.
+   
+   •	In this economically depressed area, evictions are common.
 
 Definition 2:
 The action of forcing someone to move out of a property.
 
-Situations like:\n
-•	If the property is sold for redevelopment, hundreds of residents could face eviction.\n
-•	an eviction notice/order Several of the building's tenants received eviction notices after failing to renew their leases on time.
+Situations like:
+
+   •	If the property is sold for redevelopment, hundreds of residents could face eviction.
+
+   •	an eviction notice/order Several of the building's tenants received eviction notices after failing to renew their leases on time.
 
 Problems with Evictions
 -----------------------
